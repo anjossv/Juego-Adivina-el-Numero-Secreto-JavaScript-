@@ -26,4 +26,4 @@ Este es un pequeño proyecto en JavaScript donde el usuario debe adivinar un nú
 
 ---
 
-Este proyecto fue creado como parte del aprendizaje de JavaScript desde cero. Ideal para quienes están comenzando y desean entender los fundamentos del lenguaje a través de la práctica.
+Este proyecto fue creado como parte del aprendizaje de el curso de Alura - Lógica de Programación. Ideal para quienes están comenzando y desean entender los fundamentos del lenguaje a través de la práctica.
